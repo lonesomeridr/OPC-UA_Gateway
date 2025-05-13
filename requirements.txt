@@ -1,4 +1,6 @@
-opcua>=0.98.13
-Flask>=2.0.0
+flask>=2.0.0
+flask-cors>=3.0.0
+opcua-asyncio>=1.0.0
 cryptography>=37.0.0
-flask-cors>=3.0.100
+werkzeug>=2.0.0
+mariadb>=1.0.0
